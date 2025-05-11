@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aPrecious74
 - 😁I’m interested in coding
-- 🌱I’m currently attending ICP
+- 🌱I’m currently a website developer intern
 - 💞️ I’m looking to collaborate on games
 
 <!---
